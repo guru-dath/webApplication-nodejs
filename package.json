@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "A simple web application",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo 'Running tests...'"
   },
   "dependencies": {
     "express": "^4.17.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/guru-dath/https://github.com/guru-dath/web-application-deploy.git"
+    "url": "https://github.com/guru-dath/webApplication-nodejs.git"
   },
   "license": "MIT"
 }
